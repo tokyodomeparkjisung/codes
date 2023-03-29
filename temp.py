@@ -15,7 +15,7 @@ def flipAndInvertImage(A:List[List[int]]) -> List[List[int]]:
             A[i][j] = abs(A[i][j] - 1)
     
     return A
-
+hello my name is sex machine taimes
 
 A = [[1,1,0],[1,0,1],[0,0,0]]
 print(flipAndInvertImage(A))
